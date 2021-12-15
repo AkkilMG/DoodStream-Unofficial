@@ -1,4 +1,4 @@
-# Unofficial DoodStream API
+# Unofficial DoodStream API 
 ---
 ![doodstream logo](https://i.doodcdn.com/img/logo-s.png)
 ---
